@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="281c0f08-8ebb-4313-9475-24b5a4a2ad06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/models/costume.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/costume.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/costume_store.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/costume_store.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/haunted_house.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/haunted_house.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/environment.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environment.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/migrate/001_create_costumes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrate/001_create_costumes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/migrate/002_create_costume_stores.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrate/002_create_costume_stores.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/migrate/003_create_haunted_houses.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrate/003_create_haunted_houses.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/support/connection_adapter.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/support/connection_adapter.rb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1S1tUKVkGPgKetoo0HRmwlhmeHX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="281c0f08-8ebb-4313-9475-24b5a4a2ad06" name="Default Changelist" comment="" />
+      <created>1570742944166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570742944166</updated>
+      <workItem from="1570742947639" duration="2803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
